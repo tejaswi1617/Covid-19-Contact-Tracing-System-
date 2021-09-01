@@ -1,0 +1,2 @@
+deviceName=Samsung
+address=1000:022dhhfh:25
